@@ -1,8 +1,9 @@
 ---
-frontPageHeading: Self-Paced Video-Taped In Depth Interviews
-menuButtonText: Learn More
+frontPageHeading: Go for gold
+menuButtonText: Train more
 buttonText: Start Your Learning Journey
 title: VIDI Self Paced Training Homepage
 FrontPageImage: "/ijm.jpg"
-TrainingLocation: ""
+TrainingLocation: ''
+
 ---
